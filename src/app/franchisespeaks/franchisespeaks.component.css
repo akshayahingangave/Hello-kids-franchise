@@ -1,0 +1,12 @@
+.franchisespeaks{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.card{
+    margin-top: 20px;
+    background-color: gainsboro;
+    border-radius: 10px 10px 10px 10px;
+}
+.card-text{
+    text-align: center;
+}

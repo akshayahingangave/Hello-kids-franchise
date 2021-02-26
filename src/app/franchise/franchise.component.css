@@ -1,0 +1,22 @@
+.franchise{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+h1{
+    color:rgb(78, 75, 75);
+    font-size: 50px;
+}
+p{
+    text-align: left;
+    font-size: 20px;
+}
+.btn{
+    margin-top: 25px;
+    background-color:navy;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding-left: 30px;
+    padding-right: 30px;
+}

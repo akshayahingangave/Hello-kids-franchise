@@ -1,0 +1,15 @@
+.slide{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+.btn{
+    margin-top: 25px;
+    background-color: white;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding-left: 30px;
+    padding-right: 30px;
+}

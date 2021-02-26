@@ -1,0 +1,19 @@
+.requirements{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+/* .accordion{
+    background: transparent;
+} */
+.card{
+    margin-top: 10px;
+    background: transparent;
+
+}
+.card-body{
+    background: transparent;
+
+}
+.btn{
+    border: 0px;
+}
