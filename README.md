@@ -1,27 +1,11 @@
-# Odchildcare
+# Output :
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![header-slide](https://user-images.githubusercontent.com/79576987/109271691-e2498180-7835-11eb-92df-789186270781.PNG)
+![about](https://user-images.githubusercontent.com/79576987/109271779-fe4d2300-7835-11eb-825e-17909c48d98e.PNG)
+![article](https://user-images.githubusercontent.com/79576987/109271802-060cc780-7836-11eb-8ff3-4ff634356953.PNG)
+![card](https://user-images.githubusercontent.com/79576987/109271843-145ae380-7836-11eb-8bde-3003230c54a5.PNG)
+![franchise](https://user-images.githubusercontent.com/79576987/109271938-35bbcf80-7836-11eb-9650-c67b5f319f8f.PNG)
+![franchisespeaks](https://user-images.githubusercontent.com/79576987/109272038-58e67f00-7836-11eb-852a-47ad3b5a3431.PNG)
+![benifits](https://user-images.githubusercontent.com/79576987/109272125-73b8f380-7836-11eb-8c9e-97201fdcc0c2.PNG)
+![requirements-awards](https://user-images.githubusercontent.com/79576987/109272143-7a476b00-7836-11eb-9d05-727461b6c2e5.PNG)
+![contact us- footer](https://user-images.githubusercontent.com/79576987/109272174-83383c80-7836-11eb-91a5-74e99c300e39.PNG)
